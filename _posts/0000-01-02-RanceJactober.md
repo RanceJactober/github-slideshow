@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Zima blue isn't my blue.
 Use the left arrow to go back!
